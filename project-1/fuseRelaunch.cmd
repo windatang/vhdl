@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "Z:/Users/winda/Documents/hartford/ECE534/PROJECT/project-1/multiplier_tb_isim_beh.exe" -prj "Z:/Users/winda/Documents/hartford/ECE534/PROJECT/project-1/multiplier_tb_beh.prj" "work.multiplier_tb" 
