@@ -1,0 +1,29 @@
+Running: C:\Xilinx\13.2\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o Z:/Users/winda/Documents/hartford/ECE534/PROJECT/alu/testbench_isim_beh.exe -prj Z:/Users/winda/Documents/hartford/ECE534/PROJECT/alu/testbench_beh.prj work.testbench 
+ISim O.61xd (signature 0x6dd86d03)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "Z:/Users/winda/Documents/hartford/ECE534/PROJECT/alu/MUX.vhd" into library work
+Parsing VHDL file "Z:/Users/winda/Documents/hartford/ECE534/PROJECT/alu/control.vhd" into library work
+Parsing VHDL file "Z:/Users/winda/Documents/hartford/ECE534/PROJECT/alu/ALU.vhd" into library work
+Parsing VHDL file "Z:/Users/winda/Documents/hartford/ECE534/PROJECT/alu/system.vhd" into library work
+Parsing VHDL file "Z:/Users/winda/Documents/hartford/ECE534/PROJECT/alu/tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 94580 KB
+Fuse CPU Usage: 467 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity control [\control(2,4)\]
+Compiling architecture behavioral of entity MUX [\MUX(2,4)\]
+Compiling architecture behavioral of entity ALU [\ALU(2,4)\]
+Compiling architecture behavioral of entity system [\system(2,4)\]
+Compiling architecture behavior of entity testbench
+Time Resolution for simulation is 1ps.
+Compiled 14 VHDL Units
+Built simulation executable Z:/Users/winda/Documents/hartford/ECE534/PROJECT/alu/testbench_isim_beh.exe
+Fuse Memory Usage: 112420 KB
+Fuse CPU Usage: 1122 ms

@@ -1,0 +1,5 @@
+vhdl work "MUX.vhd"
+vhdl work "control.vhd"
+vhdl work "ALU.vhd"
+vhdl work "system.vhd"
+vhdl work "tb.vhd"

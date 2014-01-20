@@ -1,0 +1,29 @@
+Command line:
+   mtb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50561
+
+Thu Dec 12 19:52:49 2013
+
+
+ Elaboration Time: 0.0468 sec
+
+ Current Memory Usage: 479.412 Meg
+
+ Total Signals          : 13
+ Total Nets             : 26
+ Total Signal Drivers   : 7
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 3
+ Total Traceable Variables  : 12
+ Total Scalar Nets and Variables : 406
+Total Line Count : 17
+
+ Total Simulation Time: 0.0468 sec
+
+ Current Memory Usage: 636.699 Meg
+
+Fri Jan 17 11:02:32 2014
+

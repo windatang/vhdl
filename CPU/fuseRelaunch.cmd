@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "Z:/Users/winda/Documents/hartford/ECE534/PROJECT/alu/testbench_isim_beh.exe" -prj "Z:/Users/winda/Documents/hartford/ECE534/PROJECT/alu/testbench_beh.prj" "work.testbench" 

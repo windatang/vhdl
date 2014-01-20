@@ -1,0 +1,19 @@
+net "lED(0)" loc=  "M5";
+net "lED(1)" loc=  "M11";
+net "lED(2)" loc=  "P7";
+net "lED(3)" loc=  "P6";
+
+
+net "SWITCHS(0)" loc=  "P11" ;
+net "SWITCHS(1)" loc=  "L3";
+net "SWITCHS(2)" loc=  "K3";
+net "SWITCHS(3)" loc=  "B4";
+
+
+net "ADDRESS1(0)" loc=  "N5" ;
+net "ADDRESS1(1)" loc=  "N4";
+net "ADDRESS1(2)" loc=  "P4";
+net "ADDRESS1(3)" loc=  "G1";
+
+net "Clock" loc=  "c8"; 
+net "Reset" loc = "G12";

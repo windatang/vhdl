@@ -1,0 +1,4 @@
+vhdl isim_temp "MUX.vhd"
+vhdl isim_temp "control.vhd"
+vhdl isim_temp "ALU.vhd"
+vhdl isim_temp "system.vhd"

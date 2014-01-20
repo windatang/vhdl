@@ -1,0 +1,8 @@
+AR system behavioral //psf/host/Users/winda/Documents/hartford/ECE534/PROJECT/alu/system.vhd sub00/vhpl07 1386796299
+AR alu behavioral //psf/host/Users/winda/Documents/hartford/ECE534/PROJECT/alu/ALU.vhd sub00/vhpl05 1386796297
+AR control behavioral //psf/host/Users/winda/Documents/hartford/ECE534/PROJECT/alu/control.vhd sub00/vhpl01 1386796293
+AR mux behavioral //psf/host/Users/winda/Documents/hartford/ECE534/PROJECT/alu/MUX.vhd sub00/vhpl03 1386796295
+EN system NULL //psf/host/Users/winda/Documents/hartford/ECE534/PROJECT/alu/system.vhd sub00/vhpl06 1386796298
+EN control NULL //psf/host/Users/winda/Documents/hartford/ECE534/PROJECT/alu/control.vhd sub00/vhpl00 1386796292
+EN mux NULL //psf/host/Users/winda/Documents/hartford/ECE534/PROJECT/alu/MUX.vhd sub00/vhpl02 1386796294
+EN alu NULL //psf/host/Users/winda/Documents/hartford/ECE534/PROJECT/alu/ALU.vhd sub00/vhpl04 1386796296
